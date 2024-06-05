@@ -1,0 +1,1 @@
+python tools/train.py -c configs/rtdetr/rtdetr_r18vd_6x_coco.yml -r ../checkpoints/rtdetr_r18vd_5x_coco_objects365_from_paddle.pth --test-only
